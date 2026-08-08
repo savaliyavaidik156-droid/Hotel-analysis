@@ -92,7 +92,7 @@ hotel-business-dashboard/
 
 ## 🌐 Live Dashboard
 
-🔗 **[Add your Streamlit Cloud URL here after deployment]**
+🔗 **(https://hotel-analysis-wg7upyxavb5evfjwlegr7n.streamlit.app/)**
 
 ---
 
@@ -110,6 +110,4 @@ hotel-business-dashboard/
 
 ---
 
-## 👤 Author
 
-Data Analytics Project — Hotel Business Investigation (2017–2019)
